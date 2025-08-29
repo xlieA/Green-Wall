@@ -9,4 +9,9 @@ We incorporate these initiatives, methods and values into a strategic community 
 The player finds themselves in a world almost completely destroyed by the effects of climate change. Huge parts of the land are barren and uninhabitable. The soil is unable to grow any plants anymore. Most people already left their homes behind in a desperate search for a chance at a better life somewhere else. But the livable regions get less and less. The player and a small part of their community live in a vacant region that hasn't been able to sustain itself in years. In an attempt to fight imminent desertification, the player tries to lead their community in their endeavour to reclaim their home once again. Based on their research on the Great Green Wall the player develops a concept to revive the land. And that, in just four years' time.
 
 Please don't forget to fill out our playtesting survey:
-https://forms.gle/rU97YDzXuhgYtaHSA
+https://forms.gle/rU97YDzXuhgYtaHSA (closed)
+
+<br>
+
+## Gameplay Trailer
+[![Watch the video](https://img.youtube.com/vi/c0k8vT57soQ/hqdefault.jpg)](https://www.youtube.com/watch?v=c0k8vT57soQ)
